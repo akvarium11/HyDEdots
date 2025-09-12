@@ -8,3 +8,6 @@ Theme - Graphite Mono
 Animations - minimal-1  
 Waybar layout - 01  
 Waybar style - hyperdots  
+  
+logo.png - https://files.catbox.moe/l2waap.png  
+wallpaper.png - https://files.catbox.moe/ykxz66.jpg
