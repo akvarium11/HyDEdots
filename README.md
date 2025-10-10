@@ -2,6 +2,8 @@
 
 FastFetch config | /.config/fastfetch/config.jsonc (logo.png has to be in .config/fastfetch/logo/logo.png)  
 HyperLand monitors config | /.config/hypr/monitors.conf  
+Waybar config | /.config/waybar/config.jsonc  
+                /.config/waybar/theme.css  
 Sober config | /.var/app/org.vinegarhq.Sober/config/sober/config.json  
   
 Theme - Graphite Mono  
