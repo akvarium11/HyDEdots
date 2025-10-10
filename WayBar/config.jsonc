@@ -12,15 +12,14 @@
         "$XDG_CONFIG_HOME/waybar/includes/includes.json" 
     ],
     "modules-left": [
-        "group/pill#left1",
-        "group/pill#left2"
+        "group/pill#left1"
     ],
     "group/pill#left1": {
         "orientation": "inherit",
         "modules": [
             "memory",
             "idle_inhibitor",
-            "hyprland/window"   
+            "hyprland/window"
         ]
     },
     "group/pill#left2": {
@@ -40,23 +39,17 @@
     },
     "modules-right": [
         "group/pill#right1",
-        "group/pill#right2",
-        "group/pill#right3"
+        "group/pill#right2"
     ],
     "group/pill#right1": {
         "modules": [
+          "privacy",
+          "tray",
+          "battery"
         ],
         "orientation": "inherit"
     },
     "group/pill#right2": {
-        "modules": [
-            "privacy",
-            "tray",
-            "battery"
-        ],
-        "orientation": "inherit"
-    },
-    "group/pill#right3": {
         "modules": [
             "backlight",
             "pulseaudio",
