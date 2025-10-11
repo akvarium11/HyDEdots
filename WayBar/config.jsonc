@@ -19,7 +19,8 @@
         "modules": [
             "memory",
             "idle_inhibitor",
-            "hyprland/window"
+            "hyprland/window",
+            "wlr/taskbar"
         ]
     },
     "group/pill#left2": {
