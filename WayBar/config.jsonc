@@ -19,7 +19,6 @@
         "modules": [
             "memory",
             "idle_inhibitor",
-            "hyprland/window",
             "wlr/taskbar"
         ]
     },
