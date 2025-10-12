@@ -19,4 +19,4 @@ Theme - Graphite Mono
 Animations - minimal-1 | end4  
 Waybar layout - 01  
 Waybar style - hyperdots  
-  
+[Wallpaper](https://files.catbox.moe/6msnch.jpg)  
