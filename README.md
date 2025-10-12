@@ -6,8 +6,6 @@ Hyperland config | /.config/hypr/monitors.conf
   
 FastFetch config | /.config/fastfetch/config.jsonc
   
-HyperLand monitors config | /.config/hypr/monitors.conf  
-  
 Waybar config | /.config/waybar/config.jsonc  
                 /.config/waybar/theme.css  
   
