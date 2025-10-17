@@ -30,7 +30,8 @@
     ],
     "group/pill#center1": {
         "modules": [
-            "hyprland/workspaces"
+            "tray"
+
         ],
         "orientation": "inherit"
     },
@@ -44,8 +45,6 @@
     },
     "group/pill#center3": {
         "modules": [
-            "tray",
-            "pulseaudio",
             "custom/hyde-menu",
             "custom/power"
             
