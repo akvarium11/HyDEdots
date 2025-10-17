@@ -2,6 +2,9 @@
   
 Hyperland config |  
 /.config/hypr/
+
+Kitty config |   
+/.config/kitty/
   
 FastFetch config |   
 /.config/fastfetch/
