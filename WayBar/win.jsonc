@@ -3,7 +3,7 @@
     "output": [
         "*"
     ],
-    "height": 8,
+    "height": 10,
     "exclusive": true,
     "passthrough": false,
     "reload_style_on_change": true,
@@ -30,8 +30,7 @@
     ],
     "group/pill#center1": {
         "modules": [
-            "tray",
-            "pulseaudio"
+            "hyprland/workspaces"
         ],
         "orientation": "inherit"
     },
@@ -45,11 +44,21 @@
     },
     "group/pill#center3": {
         "modules": [
+            "tray",
+            "pulseaudio",
             "custom/hyde-menu",
             "custom/power"
+            
         ],
         "orientation": "inherit"
     },
+    "group/pill#center4": {
+        "modules": [
+           
+        ],
+        "orientation": "inherit"
+    },
+
     "modules-right": [
     ],
     "group/pill#right1": {
